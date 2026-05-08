@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8684459ef68a32",
+        "id": "cbcb09d5cfb05522",
         "type": "tabs",
         "children": [
           {
-            "id": "16c0cb50512cad23",
+            "id": "da1d2696a9d9ede6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "custom-frames-local_hermes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "documents",
+              "title": "local_hermes"
+            }
+          },
+          {
+            "id": "89deaf08bacbf2e3",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-cloud_hermes",
+              "state": {},
+              "icon": "documents",
+              "title": "cloud_hermes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +221,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2382c12ea5fd87a4",
+  "active": "89deaf08bacbf2e3",
   "lastOpenFiles": [
     "books/思考致富.pdf",
     "你是你吃出来的总结.md",

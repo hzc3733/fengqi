@@ -1,8 +1,20 @@
 {
   "frames": [
     {
-      "url": "http://43.159.36.78:8787",
-      "displayName": "hermes",
+      "url": "http://localhost:8787/",
+      "displayName": "local_hermes",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "http://43.159.36.78:8787/",
+      "displayName": "cloud_hermes",
       "icon": "",
       "hideOnMobile": true,
       "addRibbonIcon": false,

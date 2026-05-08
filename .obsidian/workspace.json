@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61f1977bba7083ec",
+        "id": "d09433582c45115d",
         "type": "tabs",
         "children": [
           {
-            "id": "890f7b2526f693da",
+            "id": "fa9560f42cf61769",
             "type": "leaf",
             "state": {
               "type": "custom-frames-hermes",
@@ -151,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -192,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +210,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2382c12ea5fd87a4",
+  "active": "fa9560f42cf61769",
   "lastOpenFiles": [
     "test.md",
     "你是你吃出来的总结.md",

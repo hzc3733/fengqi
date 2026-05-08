@@ -15,10 +15,6 @@
     {
       "name": "Emoji",
       "template": "📖"
-    },
-    {
-      "name": "None",
-      "template": ""
     }
   ],
   "defaultDisplayTextFormatIndex": 0,
@@ -27,7 +23,7 @@
   "copyCommands": [
     {
       "name": "Quote",
-      "template": "> ({{linkWithDisplay}})\n> {{text}}\n"
+      "template": "创建日期：{{moment().format(\"YYYY-MM-DD HH:mm:ss\")}}\n标题： {{linkWithDisplay}}\n内容： {{text}}"
     },
     {
       "name": "Link",
@@ -98,7 +94,7 @@
   "singleMDLeafInSidebar": true,
   "alwaysUseSidebar": true,
   "ignoreExistingMarkdownTabIn": [],
-  "defaultColorPaletteActionIndex": 4,
+  "defaultColorPaletteActionIndex": 0,
   "syncColorPaletteAction": true,
   "syncDefaultColorPaletteAction": false,
   "proxyMDProperty": "PDF",

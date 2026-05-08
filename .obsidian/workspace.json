@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d09433582c45115d",
+        "id": "ef8684459ef68a32",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9560f42cf61769",
+            "id": "16c0cb50512cad23",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "custom-frames-hermes",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "documents",
-              "title": "hermes"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]

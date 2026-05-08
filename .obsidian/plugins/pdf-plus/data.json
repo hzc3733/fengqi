@@ -2,7 +2,7 @@
   "displayTextFormats": [
     {
       "name": "Title & page",
-      "template": "{{file.basename}}, p.{{pageLabel}}"
+      "template": "<LINK: {{file.basename}} ( p.{{pageLabel}} )>"
     },
     {
       "name": "Page",
@@ -23,7 +23,7 @@
   "copyCommands": [
     {
       "name": "Quote",
-      "template": "创建日期：{{moment().format(\"YYYY-MM-DD HH:mm:ss\")}}\n标题： {{linkWithDisplay}}\n内容： {{text}}"
+      "template": "创建日期：{{moment().format(\"YYYY-MM-DD HH:mm:ss\")}}\n标题：{{file.basename}}\n内容：\n    {{text}}\n\n {{linkWithDisplay}}\n\n---------------------\n\n"
     },
     {
       "name": "Link",

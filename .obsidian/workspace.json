@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21640006fef9b8de",
+        "id": "d2d0eba41743c2e8",
         "type": "tabs",
         "children": [
           {
-            "id": "2e6201de6b6117b7",
+            "id": "22268f257221c317",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -210,7 +210,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2e6201de6b6117b7",
+  "active": "2382c12ea5fd87a4",
   "lastOpenFiles": [
     "books/思考致富.pdf",
     "你是你吃出来的总结.md",

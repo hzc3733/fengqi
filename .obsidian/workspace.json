@@ -10,9 +10,11 @@
           {
             "id": "fa9560f42cf61769",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "custom-frames-hermes",
               "state": {},
+              "pinned": true,
               "icon": "documents",
               "title": "hermes"
             }
@@ -36,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -210,24 +212,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fa9560f42cf61769",
+  "active": "2382c12ea5fd87a4",
   "lastOpenFiles": [
-    "test.md",
+    "books/思考致富.pdf",
     "你是你吃出来的总结.md",
+    "hermes链接.canvas",
+    "README.md",
+    "未命名.md",
     "通用模板/模板：创建日期.md",
     "books/你是你吃出来的.pdf",
+    "books/老子的N維傳訊 .pdf",
+    "我爱学习.md",
     "2026-05-08.md",
-    "未命名.canvas",
+    "test.md",
     "2026-W19.md",
     "2026-05-07.md",
     "202605081323.md",
     "test.md",
-    "README.md",
-    "books/老子的N維傳訊 .pdf",
-    "我爱学习.md",
     "工具说明书.md",
     "技能使用说明书.md",
-    "books/思考致富.pdf",
     "books/《思考致富》2016版 拿破仑·希尔(美).pdf",
     "books/老子的N維傳訊 德道經原文重現重譯 (呂尚) .pdf",
     "books/你是你吃出来的：吃对少生病，病了这样吃.pdf",

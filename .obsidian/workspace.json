@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "你是你吃出来的总结.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "你是你吃出来的总结"
+              "title": "test"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "889d0dc8e06b0862",
         "type": "tabs",
+        "dimension": 72.05459770114942,
         "children": [
           {
             "id": "67d8c858d6d2ff32",
@@ -154,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "test 的大纲"
             }
           },
           {
@@ -171,7 +173,15 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "3c0be3496668151d",
+        "type": "tabs",
+        "dimension": 27.945402298850574,
+        "children": [
           {
             "id": "e7d4cf0f14db6ce5",
             "type": "leaf",
@@ -182,12 +192,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +207,9 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
       "random-note:开始漫游笔记": false,
       "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
@@ -208,8 +217,9 @@
   },
   "active": "890f7b2526f693da",
   "lastOpenFiles": [
-    "通用模板/模板：创建日期.md",
+    "test.md",
     "你是你吃出来的总结.md",
+    "通用模板/模板：创建日期.md",
     "books/你是你吃出来的.pdf",
     "2026-05-08.md",
     "未命名.canvas",

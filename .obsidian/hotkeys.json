@@ -16,5 +16,41 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-git:open-diff-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-git:open-history-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "http://43.159.36.78:8787",
+      "displayName": "hermes",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

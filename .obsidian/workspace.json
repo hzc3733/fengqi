@@ -176,7 +176,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "0b856a520f90d931",
@@ -201,7 +202,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open hermes": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -217,8 +217,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "66235532a6f0e2b1",
+  "active": "a96b29cefaa34deb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "你是你吃出来的总结.md",
     "日记/2026-05-07.md",
     "通用模板/模板：创建日期.md",

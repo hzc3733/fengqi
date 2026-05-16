@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e08cb1a62d64c6",
+        "id": "d2d0eba41743c2e8",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8fa97676879397",
+            "id": "22268f257221c317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2026-05-09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-09"
+              "title": "新标签页"
             }
           }
         ]
@@ -50,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 364.5
   },
   "right": {
     "id": "ea7be7cbd06bcf41",
@@ -97,7 +83,7 @@
       {
         "id": "889d0dc8e06b0862",
         "type": "tabs",
-        "dimension": 64.72868217054264,
+        "dimension": 67.60057471264368,
         "children": [
           {
             "id": "67d8c858d6d2ff32",
@@ -105,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2026-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-09 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -124,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "你是你吃出来的总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "你是你吃出来的总结 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -148,21 +132,6 @@
             }
           },
           {
-            "id": "d7a6fa0167e8f82e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "你是你吃出来的总结.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "你是你吃出来的总结 的大纲"
-            }
-          },
-          {
             "id": "a5a593ef83f433f4",
             "type": "leaf",
             "state": {
@@ -174,6 +143,20 @@
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d7a6fa0167e8f82e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -190,9 +173,9 @@
         "currentTab": 5
       },
       {
-        "id": "0b856a520f90d931",
+        "id": "3c0be3496668151d",
         "type": "tabs",
-        "dimension": 35.27131782945737,
+        "dimension": 32.39942528735632,
         "children": [
           {
             "id": "e7d4cf0f14db6ce5",
@@ -208,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,43 +199,45 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
       "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "workspaces:管理工作区布局": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5d8fa97676879397",
+  "active": "2382c12ea5fd87a4",
   "lastOpenFiles": [
     "日记/2026-05-09.md",
-    "2026-05-09.md",
-    "日记/2026-05-07.md",
     "日记/2026-05-08.md",
-    "你是你吃出来的总结.md",
-    "conflict-files-obsidian-git.md",
-    "通用模板/模板：创建日期.md",
+    "日记/2026-05-07.md",
     "日记",
-    "books/你是你吃出来的.pdf",
-    "未命名.canvas",
-    "2026-W19.md",
-    "202605081323.md",
     "test.md",
+    "books/财富阶梯.pdf",
+    "books/思考致富.pdf",
+    "你是你吃出来的总结.md",
+    "hermes链接.canvas",
     "README.md",
+    "未命名.md",
+    "通用模板/模板：创建日期.md",
+    "books/你是你吃出来的.pdf",
     "books/老子的N維傳訊 .pdf",
     "我爱学习.md",
+    "2026-05-08.md",
+    "2026-W19.md",
+    "2026-05-07.md",
+    "202605081323.md",
     "工具说明书.md",
     "技能使用说明书.md",
-    "books/思考致富.pdf",
     "books/《思考致富》2016版 拿破仑·希尔(美).pdf",
     "books/老子的N維傳訊 德道經原文重現重譯 (呂尚) .pdf",
     "books/你是你吃出来的：吃对少生病，病了这样吃.pdf",
     "books",
     "新建文件夹",
-    "你是你吃出来的：吃对少生病，病了这样吃.pdf",
     "吃出来.md",
     "通用模板/未命名.canvas",
     "通用模板.md"
